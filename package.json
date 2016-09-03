@@ -1,0 +1,23 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial && http://survivejs.com/webpack/developing-with-webpack/getting-started/",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --inline --hot"
+  },
+  "author": "Vladimir Poplavskij",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "express": "^4.14.0",
+    "html-webpack-plugin": "^2.22.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0",
+    "webpack-merge": "^0.14.1",
+    "webpack-validator": "^2.2.7"
+  }
+}
