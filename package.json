@@ -1,7 +1,7 @@
 {
-  "name": "react-ru-tutorial",
+  "name": "team-stat-react",
   "version": "1.0.0",
-  "description": "React RU tutorial && http://survivejs.com/webpack/developing-with-webpack/getting-started/",
+  "description": "Based on React RU tutorial && http://survivejs.com/webpack/developing-with-webpack/getting-started/",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,8 @@
     "webpack-dev-server": "^1.15.0",
     "webpack-merge": "^0.14.1",
     "webpack-validator": "^2.2.7"
+  },
+  "dependencies": {
+    "react": "^15.3.1"
   }
 }

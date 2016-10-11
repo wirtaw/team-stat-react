@@ -1,7 +1,23 @@
 body {
-  background: silk;
+    background: #e0e0e0;
 }
 .big {
     color:#f04;
     font-size: 1.2em;
+}
+.input-text,.submit-button{
+    height:36px;
+    width: 250px;
+    min-width: 250px;
+    line-height:36px;
+    font-size:18px;
+    color:#000;
+    margin:2px;
+    padding:2px;
+}
+.submit-button{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px!important;
+    min-height: 45px!important;
 }
