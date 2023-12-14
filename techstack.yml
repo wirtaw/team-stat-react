@@ -1,7 +1,7 @@
 repo_name: wirtaw/team-stat-react
-report_id: ed6a3754b7716086c04d9d65694c70a8
+report_id: 4be4b92d2176ea164925c59f4c6ac6ab
 repo_type: Public
-timestamp: '2023-11-11T19:47:58+00:00'
+timestamp: '2023-12-14T10:27:04+00:00'
 requested_by: wirtaw
 provider: github
 branch: master
@@ -37,7 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
@@ -72,8 +72,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: package.json
-  detection_source: webpack.config.js
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
+  detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
 - name: npm
@@ -97,7 +97,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
@@ -118,7 +118,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
@@ -132,7 +132,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
@@ -146,7 +146,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
@@ -167,7 +167,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/wirtaw/team-stat-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2016-09-03 12:26:16.000000000 Z
